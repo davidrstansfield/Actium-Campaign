@@ -1,0 +1,6 @@
+**Contested Entry**
+- **Period**: [e.g., Late 31 BC]
+- **Contested Detail**: [e.g., Agrippa in Rome]
+- **Alternative**: [e.g., Agrippa in Corinth]
+- **Source**: [e.g., New source]
+- **Proposed Resolution**: [e.g., Corinth if source verified]
