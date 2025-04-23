@@ -1,3 +1,11 @@
+---
+name: New Entry
+about: Add new evidence about Agrippa’s movements
+title: '[New Entry] Agrippa’s Location/Activity'
+labels: new-entry
+assignees: ''
+---
+
 **New Entry**
 - **Period**: [e.g., Sep 31 BC]
 - **Detail**: [e.g., Agrippa in Brundisium]
