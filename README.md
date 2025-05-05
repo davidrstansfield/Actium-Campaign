@@ -1,6 +1,6 @@
 # Actium Campaign
 
-Investigating Marcus Vipsanius Agrippa’s movements between the Battle of Actium (September 2, 31 BC) and Octavian’s triumph in Rome (August 13, 29 BC).
+Marcus Vipsanius Agrippa’s movements between the Battle of Actium (September 2, 31 BC) and Octavian’s triumph in Rome (August 13, 29 BC).
 
 **Read**: [docs/actium_campaign.md](docs/actium_campaign.md)
 
