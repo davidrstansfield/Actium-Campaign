@@ -57,5 +57,3 @@ We invite scholars to contribute primary sources, archaeological evidence, or se
 - **Primary Sources**: Cassius Dio, Plutarch, Josephus.
 - **Secondary Sources**: Britannica, World History Encyclopedia.
 - **Propaganda**: Accounts may downplay Agrippa’s role to emphasize Octavian.
-- **Map**: Planned Leaflet.js map of Actium, Rome, Brundisium, etc. ([docs/map.md](docs/map.md)).
-- **Timeline**: Planned TimelineJS graphic ([docs/timeline.md](docs/timeline.md)).
