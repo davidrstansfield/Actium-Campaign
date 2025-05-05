@@ -1,6 +1,6 @@
 # Agrippa’s Movements: September 2, 31 BC – August 13, 29 BC
 
-This document outlines what is known and unknown about Marcus Vipsanius Agrippa’s movements between the Battle of Actium (September 2, 31 BC) and Octavian’s triumph in Rome (August 13, 29 BC). Due to limited primary sources, much of Agrippa’s activities are speculative, potentially obscured by Octavian’s propaganda. We aim to provide a clear, factual basis for scholars to contribute new evidence or interpretations, correcting ambiguities in secondary accounts (e.g., Britannica).
+This document outlines what is known and unknown about Marcus Vipsanius Agrippa’s movements between the Battle of Actium (September 2, 31 BC) and Octavian’s triumph in Rome (August 13, 29 BC). Due to limited primary sources, much of Agrippa’s activities are speculative. We aim to provide a clear, factual basis for scholars to contribute new evidence or interpretations, correcting ambiguities in secondary accounts (e.g., Britannica).
 
 ## Factual Assessment: Agrippa’s Movements Largely Unknown?
 
