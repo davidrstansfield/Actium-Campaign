@@ -1,6 +1,6 @@
 # Actium Campaign
 
-Tracks Agrippa’s movements, 31–29 BC. Sources are scarce. Scholars, add evidence to fill gaps.
+Agrippa’s movements, 31–29 BC.
 
 **Read**: [docs/actium_campaign.md](docs/actium_campaign.md)
 
